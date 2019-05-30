@@ -12,6 +12,8 @@ Our aim was to create a splash screen (introduction page), menu, and as many gam
 ## Sample Screenshots
 <p align="center">
   <img src="https://i.imgur.com/G4p0RVT.jpg" width="400px" height="400px">
+  
   <img src="https://i.imgur.com/G4p0RVT.jpg" width="400px" height="400px">
+  
   <img src="https://i.imgur.com/G4p0RVT.jpg" width="400px" height="400px">
  </p>
