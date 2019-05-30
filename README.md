@@ -1,2 +1,10 @@
 # ECE241: Game and Watch
-ECE241 Design Project. Collection of games mimicking the Game and Watch series by Nintendo. Project was completed in a month with partner.
+ECE241 Design Project. For a more detailed description of the project, please take a look at the final report on the repository.
+
+## Goal
+Our aim was to create a splash screen (introduction page), menu, and as many games as our time constraints would allow. In the time give, we created four different games, each with two levels of difficulty. The games that we created were Fire, Octopus, Flagman, and Super Mario Bros. The player chooses the game and difficulty to on the menu screen and can return back to the menu at any time while playing.
+
+## Block Diagram
+<p align="center">
+  <img src="https://imgur.com/Pnvb0OV" width="600px" height="600px">
+</p>
