@@ -6,5 +6,5 @@ Our aim was to create a splash screen (introduction page), menu, and as many gam
 
 ## Block Diagram
 <p align="center">
-  <img src="https://imgur.com/Pnvb0OV.jpg" width="600px" height="600px">
+  <img src="https://imgur.com/Pnvb0OV.jpg" width="400px" height="600px">
 </p>
